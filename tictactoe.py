@@ -13,7 +13,7 @@ import time
 +-----------------+
 |  X  |  X  |  X  |
 +-----------------+
-=> 9 Felder
+=> 9 Felderd
 """
 
 class TicTacToe():
